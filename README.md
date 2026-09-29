@@ -43,13 +43,13 @@ I build practical products that solve real problems—from collaborative workspa
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codllm&show_icons=true&theme=tokyonight&hide_border=true" alt="Nishant's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codllm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
+- 🔨 Building full-stack applications with React, Node.js, Express, and MongoDB
+- 🧠 Practicing Data Structures and Algorithms in C++
+- 🚀 Exploring React Native, Next.js, AWS, Docker, and SQL
+- 💡 Interested in AI-powered products and scalable web applications
+- 📈 Actively improving through coding, projects, and open-source learning
 
 ## 🤝 Let's Connect
 
 I'm open to collaborating on interesting products, full-stack applications, and developer-focused tools.
 
-![Profile views](https://komarev.com/ghpvc/?username=codllm&color=blueviolet&style=flat-square)
